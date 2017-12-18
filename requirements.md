@@ -12,4 +12,10 @@ some details from http://www.adeveloperdiary.com/java/spring-boot/create-spring-
 
 
 
+#  App setup
+
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-started-installing-the-cli
+
+
+
  
