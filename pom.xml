@@ -6,7 +6,7 @@
 	<groupId>com.tommy</groupId>
 	<artifactId>secure-note</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>secure-note</name>
 	<description>Spring boot app for secure, shredded, one-time note sharing.</description>
