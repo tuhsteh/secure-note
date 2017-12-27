@@ -1,4 +1,4 @@
-package com.tommy.securenote;
+package com.tommy.securenote.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;

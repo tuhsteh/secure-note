@@ -1,4 +1,4 @@
-package com.tommy.securenote;
+package com.tommy.securenote.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
