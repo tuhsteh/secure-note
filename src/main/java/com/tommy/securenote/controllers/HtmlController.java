@@ -13,7 +13,7 @@ public class HtmlController {
 
     @RequestMapping(value = INDEX)
     public String index(){
-        return "<h1>helloWorld</h1";
+        return "/home";
     }
 
     // Create
@@ -21,11 +21,7 @@ public class HtmlController {
     // Fetch
     @RequestMapping(value = FETCH_NOTE, params = {NOTE_ID}, method = GET)
     public String getNote(){
-        return "<h1>Super Secret</h1>";
+        return "/note";
     }
-
-
-
-
 
 }
