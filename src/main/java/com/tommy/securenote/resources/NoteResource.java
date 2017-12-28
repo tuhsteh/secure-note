@@ -9,7 +9,7 @@ public class NoteResource implements Serializable {
     private static final long serialVersionUID = -8310026164854627506L;
 
     @Id
-    private String id;
+    private String noteId;
     // comes from Mongo
 
     private String content;
