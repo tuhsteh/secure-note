@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 public class NoteResource implements Serializable {
 
-    private static final long serialVersionUID = -8310026164854627506L;
+    private static final long serialVersionUID = -3301312617073041699L;
 
     @Id
     private String noteId;
@@ -21,5 +21,9 @@ public class NoteResource implements Serializable {
 
     public void setContent(String content) {
         this.content = content;
+    }
+
+    public String getNoteId() {
+        return noteId;
     }
 }
