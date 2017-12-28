@@ -15,7 +15,7 @@ public class Constants {
     public static final String CREATE_NOTE = "/create";
 
     // PARAMS
-    public static final String NOTE_ID = "id";
+    public static final String NOTE_ID = "noteId";
 
     // CONTROLLER MEDIA TYPES
     public static final String CONTROLLER_MEDIA_TYPE_TEXT = "text/html";
